@@ -1,5 +1,8 @@
 ahenk-register (1.0) unstable; urgency=medium
 
+  [ Ömer ÇAKMAK ]
   * Initial release. Closes: #Ahenk-register
 
- -- Ömer ÇAKMAK <farukomercakmak@gmail.com>  Fri, 12 Nov 2018 15:46:26 +0300
+  [ Tuncay ÇOLAK ]
+
+ -- Tuncay ÇOLAK <tuncay.colak@tubitak.gov.tr>  Sat, 04 Apr 2020 20:20:32 +0300
